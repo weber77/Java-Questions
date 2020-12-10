@@ -1,0 +1,97 @@
+1. INTRODUCTION:
+
+1.1. In program SingleComment.java, comment the following lines:
+    - line 2 describing the what this program does.
+    - line 6 saying "Variable declaration
+    - comment line 10 and 16
+
+1.2. In the program MultiLineComment.java, comment line 1 to 4 using a Java multiple line commenting style
+
+2. VARIABLES:
+
+2.1. Modify program DataTypes.java by declaring the following variables
+    - username  as a string
+    - userGender as char
+    - userHeight as a double
+    - isInRelation as a boolean
+    Modifications should be done from line 20
+
+2.2. Write a program which declares a string variables named "greeting" and initialise it to "Welcome to Java!"
+     In your program declare 2 variables "x" and "y", multiply them and print their sum.
+     Next,declare a vairable "divisionXY" of type double to store the division of x by y.
+     Finally, print divisionXY.
+
+3. STRING:
+
+3.1 In program StringOperations1, 
+    - print the charater at index 10 of both message1 and message2
+    - compare message1 and message2 and print "TRUE" if they are equal and "FALSE" otherwise
+    - concatenate message1 and messageLonger and store the result in message12
+    - check if message1 contains the word "sti". If it does, print "message1 contains the word "still"
+        otherwise print "message1 does not contain "sti"
+    -check if message1 is equal to message2
+
+3.2 In program StringOperations2,
+    - check which message ends with "1" and print the message.
+    - find the first and last index of 'a' in message2.
+    - check if emptyString is empty and copy the value of the first charater in message2 into emptyString
+    - store the length of message1 and message1 in 2 variables and print them
+    - compare the content of the 2 length variables
+    - check is the content of emptyString is 'a'
+    
+
+3.3 In program StringOperations3,
+    - copy the content of message1 from index 0 to the last index into message2 using the copyValueOf() method and print message2. 
+        (HINT: the last index is equal to message1 length - 1)
+    - convert message3 into an array of characters and store the results into message3Array.
+    - Using the getChars() method get the character at index 15 in message1.
+
+3.4 In program StringOperations4,
+    - convert message1 to lowercase and store the result in message2.
+    - convert message1 to uppercase and stoet the result in message3.
+    - convert the variable largeInt to string and store in largeIntString.
+    - Print the message1 and largeInt and print their respective modificated strings.
+
+3.5 In program StringOperations5,
+    - Like in message1, modify message2 using String.format() such that the result is 
+        "My name is Johnathan and I'm 32 years young" using the name and the age variable provided.
+    - using the getByte() method encode message2 and print out the result.
+    - Encode message2 using getByte() with the arguments "UTF-16" and "UTF-16BE" and print the result
+    - Finally use hashnode() to encode message2
+    
+3.6 In program StringOperations6,
+    - using a java Matcher, determine if the pattern vairable matches the variable message in any way.
+    - if it matches print "Match found" otherwise, "Match not found".
+
+3.7 In program StringOperations7,
+    - in message1 replace "integers" by "characters"
+    - still in message1 replace the first occurance of "an" by "a".
+    - in message2 delete all spaces such that you've the word "WHAT!"
+    - split message1 at the index of "," and store the 2 halves in an array.
+      print the first and second halves of the remain message1
+    - After deleting the spaces in message2, check if it starts with "WH". Print the new message2.
+    
+3.8 In program StringOperations8,
+    - define a new string containing the index 0 - 6 of the message vairable.
+    - define another string variable to contain from index 6 to end of the message vairable
+     (HINT: user substring() method)
+    - Use the trim() method to remove spaces from the newly created substrings.
+    - print the substrings.
+
+
+    offsetByCodePoints()
+    regionMatches()
+
+4.0 In program Arrays/Array1.java,
+    - print ever element of the array "numberArray"
+    - create a new array containing the all element in numberArray multiplied by 2
+    - print the average of all element in your new array
+
+4.1 In program Arrays/Array2.java,
+    - print ever element of the array "Array2".
+    - change the value of the second element of Array2 by {20,4}
+    
+4.2 Using a 2 dimensional array, Print the days of the week with their corresponding number
+    output: [1, Monday]
+            [2, Tuesday] and so on.
+

@@ -1,0 +1,126 @@
+INTRODUCTION
+
+single comment 
+multi line comments
+
+VARIABLE
+String
+int
+float
+char
+boolean
+
+STRING
+
+1.
+charAt()
+compareTo()
+concat()
+contains()
+contentEquals()
+equals()
+
+2.
+indexOf()
+endsWith()
+isEmpty()
+lastIndexOf()
+length()
+
+
+copyValueOf()
+toCharArray()
+getChars()
+
+toLowerCase()
+toString()
+toUpperCase()
+format()
+getBytes()
+hashCode()
+
+
+matches()
+
+replace()
+replaceFirst()
+replaceAll()
+split()
+startsWith()
+substring()
+trim()
+
+offsetByCodePoints()
+regionMatches()
+
+
+ARRAY
+Index
+associated
+multidimensional
+
+OPERATOR
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+Bitwise operators
+
+SCOPE
+Scope
+Private
+Protected
+Public
+Calling a function
+
+CONDITIONS
+if else
+switch
+
+LOOPS
+for
+while
+do while
+break
+continue
+
+METHODS
+Method Parameters
+Method Overloading
+Scope
+Recursion
+
+CLASSES
+Classes/Objects
+Class Attributes
+Class Methods
+Constructors
+Modifiers
+Encapsulation
+Packages / API
+Inheritance
+Polymorphism
+Inner Classes
+Abstraction
+Interface
+Enums
+User Input
+Date
+ArrayList
+LinkedList
+HashMap
+HashSet
+Iterator
+Wrapper Classes
+Exceptions
+RegEx
+Threads
+Lambda
+
+OOP
+Attributes
+Constructor
+Modifier
+Inheritance
+Polymorphism
+Encapsulation
